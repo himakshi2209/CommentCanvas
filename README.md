@@ -1,3 +1,1 @@
-Run this command in the terminal before the first run -> **pip install wordcloud nltk selenium**  
-
-Blog Link - https://machinelearningprojects.net/youtube-comments-extraction-and-sentiment-analysis/
+Our Flask app is a powerful tool designed to perform sentiment analysis on YouTube comments for any given video link. By leveraging machine learning models, the app extracts comments from the specified YouTube video, analyzes their sentiment, and provides a comprehensive summary of the overall public opinion. Users can gain insights into the general mood and attitudes expressed in the comments, whether they are positive, negative, or neutral. This tool is particularly useful for content creators, marketers, and researchers who want to understand audience reactions and feedback quickly and efficiently.
